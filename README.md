@@ -18,7 +18,7 @@
 
 ### ภาพยืนยันความสมบูรณ์ (3 points)
 
-![Not Found](img/lab1.png)
+![Not Found](lab1.png)
 
 ### สรุปสิ่งที่ได้เรียนรู้จากกิจกรรม (2 points)
 
